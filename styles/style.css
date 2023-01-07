@@ -6,9 +6,10 @@ body{
 }
 header{
     background-image: url('../images/banner/banner3.png');
-    width: 1500px;
+    /* width: 1500px;
+    height: 808px; */
+    width: 0 auto;
     height: 808px;
-    
 }
 .header-container{
     position: absolute;
