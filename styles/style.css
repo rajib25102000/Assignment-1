@@ -114,6 +114,7 @@ margin: 30px,200px;
    text-align: center;
 }
 /* future plan */
+
 .my-future-plan{
     margin-top: 130px;
 }
@@ -123,7 +124,7 @@ margin: 30px,200px;
     display: flex;
     gap:30px;
     box-shadow:5px;
-    background-color:rgb(247, 202, 112);
+    background-color:rgb(174, 165, 134);
     justify-content: center;
     align-items: center;
     text-align: center;
